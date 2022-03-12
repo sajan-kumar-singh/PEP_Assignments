@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Session4Assignment1 {
+public class Session4_Assignment1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
